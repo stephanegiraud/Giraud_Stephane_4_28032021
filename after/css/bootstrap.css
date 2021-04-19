@@ -4359,6 +4359,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top .navbar-collapse {
   max-height: 340px;
 }
+
 @media (max-width: 480px) and (orientation: landscape) {
   .navbar-fixed-bottom .navbar-collapse,
   .navbar-fixed-top .navbar-collapse {
